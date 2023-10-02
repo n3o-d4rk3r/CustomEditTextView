@@ -1,4 +1,4 @@
-# CustomEditTextView Android Library
+# Upcomming CustomEditTextView Android Library
 
 [![](https://jitpack.io/v/Kwasow/BottomNavigationCircles-Android.svg)](https://jitpack.io/#Kwasow/BottomNavigationCircles-Android)
 
