@@ -1,9 +1,5 @@
 # Upcomming CustomEditTextView Android Library
 
-[![](https://jitpack.io/v/Kwasow/BottomNavigationCircles-Android.svg)](https://jitpack.io/#Kwasow/BottomNavigationCircles-Android)
-
-![out](https://user-images.githubusercontent.com/10947344/111543019-c1a88380-8772-11eb-8fd2-2d84f5142f5a.gif)
-
 ## Maintenance
 In light of Material Design 3.0's release, continued support for this plugin is no longer a priority. It may receive minimal maintenance for minor bug fixes, but it doesn't align well with the new design guidelines. However, it is stable and functional as it stands.
 
