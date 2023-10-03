@@ -40,12 +40,11 @@ Just add the view to your layout:
 
 ```
 
-The view is an extension to the material.io BottomNavigationView, and implements all it's functions.
+The view is an extension to the material.io EditTextView, and implements all it's functions.
 The following custom properties are available:
 ```kotlin
 navigationView.circleColor = Color.RED
 navigationView.darkIcon = true
-navigationView.backgroundShape = BottomNavigationView.Shape.RoundedRectangle
 ```
 Or through XML:
 ```XML
