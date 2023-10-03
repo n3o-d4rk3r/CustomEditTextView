@@ -51,6 +51,4 @@ Or through XML:
 ```XML
 app:circleColor="@color/red"
 app:darkIcon="true"
-app:backgroundShape="circle|roundedRectangle"
-app:customBackgroundShape="@drawable/bg_custom"
 ```
