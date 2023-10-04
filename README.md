@@ -39,7 +39,6 @@ Just add the view to your layout:
   .................................../>
 
 ```
-
 The view is an extension to the material.io EditTextView, and implements all it's functions.
 The following custom properties are available:
 ```kotlin
