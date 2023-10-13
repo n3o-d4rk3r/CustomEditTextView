@@ -5,7 +5,6 @@ In light of Material Design 3.0's release, continued support for this plugin is 
 
 ## Instalation
 
-
 Add jitpack.io in your top-level build.gradle:
 ```gradle
 allprojects {
