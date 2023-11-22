@@ -3,6 +3,7 @@
 ## Maintenance
 In light of Material Design 3.0's release, continued support for this plugin is no longer a priority. It may receive minimal maintenance for minor bug fixes, but it doesn't align well with the new design guidelines. However, it is stable and functional as it stands.
 
+
 ## Instalation
 
 Add jitpack.io in your top-level build.gradle:
